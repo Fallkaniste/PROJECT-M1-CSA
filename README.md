@@ -1,5 +1,8 @@
 # vehicule-tour
 ## M1-CSA project
+<p align="center">
+<img src="https://github.com/acouprie/vehicule-tour/blob/master/images/graph.png" alt="Graph" />
+</p>
 
 ### Description of the project
 
@@ -19,3 +22,8 @@ The project should be “Plug and Play”, that means can works with any map and
 
 The project will be developed using the programming language Python 3 which will interface VROOM tool with ORS, a geographical information system.
 The program should be able to take as an input a graph representing the different challenges.
+
+### Authors
+
+Alfaro Romero Sandra - Amiard Landry - Couprie Antoine\
+M1 Computer Science for Aerospace 2020 - University Paul Sabatier, Toulouse - France
